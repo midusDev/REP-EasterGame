@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_MyProsject/_Scenes/00_Splash.unity
+    guid: aa10fbe64fcadd7449821e375a84cac0
+  - enabled: 1
+    path: Assets/_MyProsject/_Scenes/01_MainMenu.unity
+    guid: 8b4056b48a60c4a47ad1f772e064abc8
+  - enabled: 1
+    path: Assets/_MyProsject/_Scenes/02_RoundSelection.unity
+    guid: f9773465ef581754f95a2c952a639b7b
+  - enabled: 1
+    path: Assets/_MyProsject/_Scenes/03a_QuizGame.unity
+    guid: 792d56cd888a009419328b02aa53d018
